@@ -1,0 +1,1233 @@
+0:DNE
+1:DNE
+2:Cannonball:True
+3:DNE
+4:DNE
+5:DNE
+6:Cannon base:True
+7:DNE
+8:Cannon stand:True
+9:DNE
+10:Cannon barrels:True
+11:DNE
+12:Cannon furnace:True
+13:DNE
+14:DNE
+15:DNE
+16:DNE
+17:DNE
+18:DNE
+19:DNE
+20:DNE
+21:DNE
+22:DNE
+23:DNE
+24:DNE
+25:DNE
+26:DNE
+27:DNE
+28:DNE
+29:DNE
+30:DNE
+31:DNE
+32:DNE
+33:DNE
+34:DNE
+35:DNE
+36:Candle:True
+37:DNE
+38:DNE
+39:Bronze arrowheads:False
+40:Iron arrowheads:False
+41:Steel arrowheads:True
+42:Mithril arrowheads:True
+43:Adamant arrowheads:True
+44:Rune arrowheads:True
+45:Opal bolt tips:True
+46:Pearl bolt tips:True
+47:Barb bolttips:True
+48:Shieldbow (u):True
+49:DNE
+50:Shortbow (u):False
+51:DNE
+52:Arrow shaft:False
+53:Headless arrow:False
+54:Oak shortbow (u):True
+55:DNE
+56:Oak shieldbow (u):True
+57:DNE
+58:Willow shieldbow (u):True
+59:DNE
+60:Willow shortbow (u):True
+61:DNE
+62:Maple shieldbow (u):True
+63:DNE
+64:Maple shortbow (u):True
+65:DNE
+66:Yew shieldbow (u):True
+67:DNE
+68:Yew shortbow (u):True
+69:DNE
+70:Magic shieldbow (u):True
+71:DNE
+72:Magic shortbow (u):True
+73:DNE
+74:DNE
+75:DNE
+76:DNE
+77:DNE
+78:DNE
+79:DNE
+80:DNE
+81:DNE
+82:DNE
+83:DNE
+84:DNE
+85:DNE
+86:DNE
+87:DNE
+88:DNE
+89:DNE
+90:DNE
+91:Guam potion (unf):False
+92:DNE
+93:Marrentill potion (unf):False
+94:DNE
+95:Tarromin potion (unf):False
+96:DNE
+97:Harralander potion (unf):True
+98:DNE
+99:Ranarr potion (unf):True
+100:DNE
+101:Irit potion (unf):True
+102:DNE
+103:Avantoe potion (unf):True
+104:DNE
+105:Kwuarm potion (unf):True
+106:DNE
+107:Cadantine potion (unf):True
+108:DNE
+109:Dwarf weed potion (unf):True
+110:DNE
+111:Torstol potion (unf):True
+112:DNE
+113:Strength potion (4):False
+114:DNE
+115:Strength potion (3):False
+116:DNE
+117:Strength potion (2):False
+118:DNE
+119:Strength potion (1):False
+120:DNE
+121:Attack potion (3):False
+122:DNE
+123:Attack potion (2):False
+124:DNE
+125:Attack potion (1):False
+126:DNE
+127:Restore potion (3):True
+128:DNE
+129:Restore potion (2):True
+130:DNE
+131:Restore potion (1):True
+132:DNE
+133:Defence potion (3):False
+134:DNE
+135:Defence potion (2):False
+136:DNE
+137:Defence potion (1):False
+138:DNE
+139:Prayer potion (3):True
+140:DNE
+141:Prayer potion (2):True
+142:DNE
+143:Prayer potion (1):True
+144:DNE
+145:Super attack (3):True
+146:DNE
+147:Super attack (2):True
+148:DNE
+149:Super attack (1):True
+150:DNE
+151:Fishing potion (3):True
+152:DNE
+153:Fishing potion (2):True
+154:DNE
+155:Fishing potion (1):True
+156:DNE
+157:Super strength (3):True
+158:DNE
+159:Super strength (2):True
+160:DNE
+161:Super strength (1):True
+162:DNE
+163:Super defence (3):True
+164:DNE
+165:Super defence (2):True
+166:DNE
+167:Super defence (1):True
+168:DNE
+169:Super ranging potion (3):True
+170:DNE
+171:Super ranging potion (2):True
+172:DNE
+173:Super ranging potion (1):True
+174:DNE
+175:Antipoison (3):True
+176:DNE
+177:Antipoison (2):True
+178:DNE
+179:Antipoison (1):True
+180:DNE
+181:Super antipoison (3):True
+182:DNE
+183:Super antipoison (2):True
+184:DNE
+185:Super antipoison (1):True
+186:DNE
+187:DNE
+188:DNE
+189:Zamorak brew (3):True
+190:DNE
+191:Zamorak brew (2):True
+192:DNE
+193:Zamorak brew (1):True
+194:DNE
+195:Potion:False
+196:DNE
+197:Poison chalice:True
+198:DNE
+199:Grimy guam:False
+200:DNE
+201:Grimy marrentill:False
+202:DNE
+203:Grimy tarromin:False
+204:DNE
+205:Grimy harralander:True
+206:DNE
+207:Grimy ranarr:True
+208:DNE
+209:Grimy irit:True
+210:DNE
+211:Grimy avantoe:True
+212:DNE
+213:Grimy kwuarm:True
+214:DNE
+215:Grimy cadantine:True
+216:DNE
+217:Grimy dwarf weed:True
+218:DNE
+219:Grimy torstol:True
+220:DNE
+221:Eye of newt:False
+222:DNE
+223:Red spiders eggs:False
+224:DNE
+225:Limpwurt root:False
+226:DNE
+227:Vial of water:False
+228:DNE
+229:Vial:False
+230:DNE
+231:Snape grass:True
+232:DNE
+233:Pestle and mortar:False
+234:DNE
+235:Unicorn horn dust:True
+236:DNE
+237:Unicorn horn:True
+238:DNE
+239:White berries:True
+240:DNE
+241:Dragon scale dust:True
+242:DNE
+243:Blue dragon scale:True
+244:DNE
+245:Wine of Zamorak:False
+246:DNE
+247:Jangerberries:True
+248:DNE
+249:Clean guam:False
+250:DNE
+251:Clean marrentill:False
+252:DNE
+253:Clean tarromin:False
+254:DNE
+255:Clean harralander:True
+256:DNE
+257:Clean ranarr:True
+258:DNE
+259:Clean irit:True
+260:DNE
+261:Clean avantoe:True
+262:DNE
+263:Clean kwuarm:True
+264:DNE
+265:Clean cadantine:True
+266:DNE
+267:Clean dwarf weed:True
+268:DNE
+269:Clean torstol:True
+270:DNE
+271:DNE
+272:DNE
+273:DNE
+274:DNE
+275:DNE
+276:DNE
+277:DNE
+278:DNE
+279:DNE
+280:DNE
+281:DNE
+282:DNE
+283:DNE
+284:DNE
+285:DNE
+286:DNE
+287:DNE
+288:Goblin mail:False
+289:DNE
+290:DNE
+291:DNE
+292:DNE
+293:DNE
+294:DNE
+295:DNE
+296:DNE
+297:DNE
+298:DNE
+299:Mithril seeds:True
+300:DNE
+301:Lobster pot:False
+302:DNE
+303:Small fishing net:False
+304:DNE
+305:Big fishing net:True
+306:DNE
+307:Fishing rod:False
+308:DNE
+309:Fly fishing rod:False
+310:DNE
+311:Harpoon:False
+312:DNE
+313:Fishing bait:False
+314:Feather:False
+315:Shrimps:False
+316:DNE
+317:Raw shrimps:False
+318:DNE
+319:Anchovies:False
+320:DNE
+321:Raw anchovies:False
+322:DNE
+323:DNE
+324:DNE
+325:Sardine:False
+326:DNE
+327:Raw sardine:False
+328:DNE
+329:Salmon:False
+330:DNE
+331:Raw salmon:False
+332:DNE
+333:Trout:False
+334:DNE
+335:Raw trout:False
+336:DNE
+337:DNE
+338:DNE
+339:Cod:True
+340:DNE
+341:Raw cod:True
+342:DNE
+343:DNE
+344:DNE
+345:Raw herring:False
+346:DNE
+347:Herring:False
+348:DNE
+349:Raw pike:False
+350:DNE
+351:Pike:False
+352:DNE
+353:Raw mackerel:True
+354:DNE
+355:Mackerel:True
+356:DNE
+357:DNE
+358:DNE
+359:Raw tuna:False
+360:DNE
+361:Tuna:False
+362:DNE
+363:Raw bass:True
+364:DNE
+365:Bass:True
+366:DNE
+367:DNE
+368:DNE
+369:DNE
+370:DNE
+371:Raw swordfish:False
+372:DNE
+373:Swordfish:False
+374:DNE
+375:DNE
+376:DNE
+377:Raw lobster:False
+378:DNE
+379:Lobster:False
+380:DNE
+381:DNE
+382:DNE
+383:Raw shark:True
+384:DNE
+385:Shark:True
+386:DNE
+387:DNE
+388:DNE
+389:Raw manta ray:True
+390:DNE
+391:Manta ray:True
+392:DNE
+393:DNE
+394:DNE
+395:Raw sea turtle:True
+396:DNE
+397:Sea turtle:True
+398:DNE
+399:DNE
+400:DNE
+401:Seaweed:True
+402:DNE
+403:Edible seaweed:True
+404:DNE
+405:Casket:True
+406:DNE
+407:Oyster:True
+408:DNE
+409:DNE
+410:DNE
+411:Oyster pearl:True
+412:DNE
+413:Oyster pearls:True
+414:DNE
+415:DNE
+416:DNE
+417:DNE
+418:DNE
+419:DNE
+420:DNE
+421:DNE
+422:DNE
+423:DNE
+424:DNE
+425:DNE
+426:Priest gown:False
+427:DNE
+428:Priest gown:False
+429:DNE
+430:DNE
+431:DNE
+432:DNE
+433:DNE
+434:Clay:False
+435:DNE
+436:Copper ore:False
+437:DNE
+438:Tin ore:False
+439:DNE
+440:Iron ore:False
+441:DNE
+442:Silver ore:False
+443:DNE
+444:Gold ore:False
+445:DNE
+446:DNE
+447:Mithril ore:False
+448:DNE
+449:Adamantite ore:False
+450:DNE
+451:Runite ore:False
+452:DNE
+453:Coal:False
+454:DNE
+455:DNE
+456:DNE
+457:DNE
+458:DNE
+459:DNE
+460:DNE
+461:DNE
+462:DNE
+463:DNE
+464:Strange fruit:True
+465:DNE
+466:DNE
+467:DNE
+468:DNE
+469:DNE
+470:DNE
+471:DNE
+472:DNE
+473:DNE
+474:DNE
+475:DNE
+476:DNE
+477:DNE
+478:DNE
+479:DNE
+480:DNE
+481:DNE
+482:DNE
+483:DNE
+484:DNE
+485:DNE
+486:DNE
+487:DNE
+488:DNE
+489:DNE
+490:DNE
+491:DNE
+492:DNE
+493:DNE
+494:DNE
+495:DNE
+496:DNE
+497:DNE
+498:DNE
+499:DNE
+500:DNE
+501:DNE
+502:DNE
+503:DNE
+504:DNE
+505:DNE
+506:DNE
+507:DNE
+508:DNE
+509:DNE
+510:DNE
+511:DNE
+512:DNE
+513:DNE
+514:DNE
+515:DNE
+516:DNE
+517:DNE
+518:DNE
+519:DNE
+520:DNE
+521:DNE
+522:DNE
+523:DNE
+524:DNE
+525:DNE
+526:Bones:False
+527:DNE
+528:Burnt bones:False
+529:DNE
+530:Bat bones:True
+531:DNE
+532:Big bones:False
+533:DNE
+534:Babydragon bones:True
+535:DNE
+536:Dragon bones:True
+537:DNE
+538:Druids robe:True
+539:DNE
+540:Druids robe:True
+541:DNE
+542:Monks robe:False
+543:DNE
+544:Monks robe:False
+545:DNE
+546:DNE
+547:DNE
+548:DNE
+549:DNE
+550:Newcomer map:False
+551:DNE
+552:DNE
+553:DNE
+554:Fire rune:False
+555:Water rune:False
+556:Air rune:False
+557:Earth rune:False
+558:Mind rune:False
+559:Body rune:False
+560:Death rune:False
+561:Nature rune:False
+562:Chaos rune:False
+563:Law rune:False
+564:Cosmic rune:False
+565:Blood rune:True
+566:Soul rune:True
+567:Unpowered orb:True
+568:DNE
+569:Fire orb:True
+570:DNE
+571:Water orb:True
+572:DNE
+573:Air orb:True
+574:DNE
+575:Earth orb:True
+576:DNE
+577:Wizard robe top:False
+578:DNE
+579:Wizard hat:False
+580:DNE
+581:Black robe top:False
+582:DNE
+583:DNE
+584:DNE
+585:DNE
+586:DNE
+587:DNE
+588:DNE
+589:DNE
+590:Tinderbox:False
+591:DNE
+592:Ashes:False
+593:DNE
+594:DNE
+595:DNE
+596:Unlit torch:True
+597:DNE
+598:Bronze fire arrows:True
+599:DNE
+600:Astronomy book:True
+601:DNE
+602:DNE
+603:DNE
+604:DNE
+605:DNE
+606:DNE
+607:DNE
+608:DNE
+609:DNE
+610:DNE
+611:DNE
+612:DNE
+613:DNE
+614:DNE
+615:DNE
+616:DNE
+617:DNE
+618:DNE
+619:DNE
+620:DNE
+621:DNE
+622:DNE
+623:DNE
+624:DNE
+625:DNE
+626:Pink boots:True
+627:DNE
+628:Green boots:True
+629:DNE
+630:Blue boots:True
+631:DNE
+632:Cream boots:True
+633:DNE
+634:Turquoise boots:True
+635:DNE
+636:Pink robe top:True
+637:DNE
+638:Green robe top:True
+639:DNE
+640:Blue robe top:True
+641:DNE
+642:Cream robe top:True
+643:DNE
+644:Turquoise robe top:True
+645:DNE
+646:Pink robe bottoms:True
+647:DNE
+648:Green robe bottoms:True
+649:DNE
+650:Blue robe bottoms:True
+651:DNE
+652:Cream robe bottoms:True
+653:DNE
+654:Turquoise robe bottoms:True
+655:DNE
+656:Pink hat:True
+657:DNE
+658:Green hat:True
+659:DNE
+660:Blue hat:True
+661:DNE
+662:Cream hat:True
+663:DNE
+664:Turquoise hat:True
+665:DNE
+666:DNE
+667:DNE
+668:DNE
+669:DNE
+670:DNE
+671:DNE
+672:DNE
+673:DNE
+674:DNE
+675:DNE
+676:DNE
+677:DNE
+678:DNE
+679:DNE
+680:DNE
+681:DNE
+682:DNE
+683:DNE
+684:DNE
+685:DNE
+686:DNE
+687:DNE
+688:DNE
+689:DNE
+690:DNE
+691:DNE
+692:DNE
+693:DNE
+694:DNE
+695:DNE
+696:DNE
+697:DNE
+698:DNE
+699:DNE
+700:DNE
+701:DNE
+702:DNE
+703:DNE
+704:DNE
+705:DNE
+706:DNE
+707:DNE
+708:DNE
+709:DNE
+710:DNE
+711:DNE
+712:DNE
+713:DNE
+714:DNE
+715:DNE
+716:DNE
+717:DNE
+718:DNE
+719:DNE
+720:DNE
+721:DNE
+722:DNE
+723:DNE
+724:DNE
+725:DNE
+726:DNE
+727:DNE
+728:DNE
+729:DNE
+730:DNE
+731:DNE
+732:DNE
+733:DNE
+734:DNE
+735:DNE
+736:DNE
+737:DNE
+738:DNE
+739:DNE
+740:DNE
+741:DNE
+742:DNE
+743:DNE
+744:DNE
+745:DNE
+746:DNE
+747:DNE
+748:DNE
+749:DNE
+750:DNE
+751:DNE
+752:DNE
+753:Cadava berries:False
+754:DNE
+755:DNE
+756:DNE
+757:DNE
+758:DNE
+759:DNE
+760:DNE
+761:DNE
+762:DNE
+763:DNE
+764:DNE
+765:DNE
+766:DNE
+767:DNE
+768:DNE
+769:DNE
+770:DNE
+771:DNE
+772:DNE
+773:DNE
+774:DNE
+775:DNE
+776:DNE
+777:DNE
+778:DNE
+779:DNE
+780:DNE
+781:DNE
+782:DNE
+783:DNE
+784:DNE
+785:DNE
+786:DNE
+787:DNE
+788:DNE
+789:DNE
+790:DNE
+791:DNE
+792:DNE
+793:DNE
+794:DNE
+795:DNE
+796:DNE
+797:DNE
+798:DNE
+799:DNE
+800:Bronze throwing axe:True
+801:Iron throwing axe:True
+802:Steel throwing axe:True
+803:Mithril throwing axe:True
+804:Adamant throwing axe:True
+805:Rune throwing axe:True
+806:Bronze dart:True
+807:Iron dart:True
+808:Steel dart:True
+809:Mithril dart:True
+810:Adamant dart:True
+811:Rune dart:True
+812:DNE
+813:DNE
+814:DNE
+815:DNE
+816:DNE
+817:DNE
+818:DNE
+819:Bronze dart tip:True
+820:Iron dart tip:True
+821:Steel dart tip:True
+822:Mithril dart tip:True
+823:Adamant dart tip:True
+824:Rune dart tip:True
+825:Bronze javelin:False
+826:Iron javelin:False
+827:Steel javelin:False
+828:Mithril javelin:False
+829:Adamant javelin:False
+830:Rune javelin:False
+831:DNE
+832:DNE
+833:DNE
+834:DNE
+835:DNE
+836:DNE
+837:Crossbow:False
+838:DNE
+839:Shieldbow:False
+840:DNE
+841:Shortbow:False
+842:DNE
+843:Oak shortbow:False
+844:DNE
+845:Oak shieldbow:False
+846:DNE
+847:Willow shieldbow:False
+848:DNE
+849:Willow shortbow:False
+850:DNE
+851:Maple shieldbow:False
+852:DNE
+853:Maple shortbow:False
+854:DNE
+855:Yew shieldbow:True
+856:DNE
+857:Yew shortbow:True
+858:DNE
+859:Magic shieldbow:False
+860:DNE
+861:Magic shortbow:False
+862:DNE
+863:Iron knife:True
+864:Bronze knife:True
+865:Steel knife:True
+866:Mithril knife:True
+867:Adamant knife:True
+868:Rune knife:True
+869:Black knife:True
+870:DNE
+871:DNE
+872:DNE
+873:DNE
+874:DNE
+875:DNE
+876:DNE
+877:Bronze bolts:False
+878:DNE
+879:Opal bolts:True
+880:Pearl bolts:True
+881:Barbed bolts:True
+882:Bronze arrow:False
+883:DNE
+884:Iron arrow:False
+885:DNE
+886:Steel arrow:False
+887:DNE
+888:Mithril arrow:False
+889:DNE
+890:Adamant arrow:False
+891:DNE
+892:Rune arrow:False
+893:DNE
+894:DNE
+895:DNE
+896:DNE
+897:DNE
+898:DNE
+899:DNE
+900:DNE
+901:DNE
+902:DNE
+903:DNE
+904:DNE
+905:DNE
+906:DNE
+907:DNE
+908:DNE
+909:DNE
+910:DNE
+911:DNE
+912:DNE
+913:DNE
+914:DNE
+915:DNE
+916:DNE
+917:DNE
+918:DNE
+919:DNE
+920:DNE
+921:DNE
+922:DNE
+923:DNE
+924:DNE
+925:DNE
+926:DNE
+927:DNE
+928:DNE
+929:DNE
+930:DNE
+931:DNE
+932:DNE
+933:DNE
+934:DNE
+935:DNE
+936:DNE
+937:DNE
+938:DNE
+939:DNE
+940:DNE
+941:DNE
+942:Bronze fire arrows:True
+943:DNE
+944:DNE
+945:DNE
+946:Knife:False
+947:DNE
+948:Bear fur:False
+949:DNE
+950:Silk:False
+951:DNE
+952:Spade:False
+953:DNE
+954:Rope:False
+955:DNE
+956:DNE
+957:DNE
+958:Grey wolf fur:True
+959:DNE
+960:Plank:False
+961:DNE
+962:Christmas cracker:False
+963:DNE
+964:DNE
+965:DNE
+966:DNE
+967:DNE
+968:DNE
+969:DNE
+970:Papyrus:True
+971:DNE
+972:DNE
+973:Charcoal:False
+974:DNE
+975:Machete:True
+976:DNE
+977:DNE
+978:DNE
+979:DNE
+980:DNE
+981:Disk of returning:False
+982:DNE
+983:Brass key:False
+984:DNE
+985:Tooth half of a key:True
+986:DNE
+987:Loop half of a key:True
+988:DNE
+989:Crystal key:True
+990:DNE
+991:Muddy key:False
+992:DNE
+993:Sinister key:True
+994:DNE
+995:DNE
+996:DNE
+997:DNE
+998:DNE
+999:DNE
+1000:DNE
+1001:DNE
+1002:DNE
+1003:DNE
+1004:DNE
+1005:White apron:False
+1006:DNE
+1007:Cape:False
+1008:DNE
+1009:Brass necklace:False
+1010:DNE
+1011:Wizard robe skirt:False
+1012:DNE
+1013:Pink skirt:False
+1014:DNE
+1015:Black robe skirt:False
+1016:DNE
+1017:Wizard hat:False
+1018:DNE
+1019:Cape:False
+1020:DNE
+1021:Cape:False
+1022:DNE
+1023:Cape:False
+1024:DNE
+1025:Eye patch:True
+1026:DNE
+1027:Cape:False
+1028:DNE
+1029:Cape:False
+1030:DNE
+1031:Cape:False
+1032:DNE
+1033:Zamorak robe:True
+1034:DNE
+1035:Zamorak robe:True
+1036:DNE
+1037:DNE
+1038:Red partyhat:False
+1039:DNE
+1040:Yellow partyhat:False
+1041:DNE
+1042:Blue partyhat:False
+1043:DNE
+1044:Green partyhat:False
+1045:DNE
+1046:Purple partyhat:False
+1047:DNE
+1048:White partyhat:False
+1049:DNE
+1050:Santa hat:False
+1051:DNE
+1052:DNE
+1053:Green hween mask:False
+1054:DNE
+1055:Blue hween mask:False
+1056:DNE
+1057:Red hween mask:False
+1058:DNE
+1059:Leather gloves:False
+1060:DNE
+1061:Leather boots:False
+1062:DNE
+1063:Leather vambraces:False
+1064:DNE
+1065:Green dhide vambraces:False
+1066:DNE
+1067:Iron platelegs:False
+1068:DNE
+1069:Steel platelegs:False
+1070:DNE
+1071:Mithril platelegs:False
+1072:DNE
+1073:Adamant platelegs:False
+1074:DNE
+1075:Bronze platelegs:False
+1076:DNE
+1077:Black platelegs:False
+1078:DNE
+1079:Rune platelegs:False
+1080:DNE
+1081:Iron plateskirt:False
+1082:DNE
+1083:Steel plateskirt:False
+1084:DNE
+1085:Mithril plateskirt:False
+1086:DNE
+1087:Bronze plateskirt:False
+1088:DNE
+1089:Black plateskirt:False
+1090:DNE
+1091:Adamant plateskirt:False
+1092:DNE
+1093:Rune plateskirt:False
+1094:DNE
+1095:Leather chaps:False
+1096:DNE
+1097:Studded chaps:False
+1098:DNE
+1099:Green dhide chaps:False
+1100:DNE
+1101:Iron chainbody:False
+1102:DNE
+1103:Bronze chainbody:False
+1104:DNE
+1105:Steel chainbody:False
+1106:DNE
+1107:Black chainbody:False
+1108:DNE
+1109:Mithril chainbody:False
+1110:DNE
+1111:Adamant chainbody:False
+1112:DNE
+1113:Rune chainbody:False
+1114:DNE
+1115:Iron platebody:False
+1116:DNE
+1117:Bronze platebody:False
+1118:DNE
+1119:Steel platebody:False
+1120:DNE
+1121:Mithril platebody:False
+1122:DNE
+1123:Adamant platebody:False
+1124:DNE
+1125:Black platebody:False
+1126:DNE
+1127:Rune platebody:False
+1128:DNE
+1129:Leather body:False
+1130:DNE
+1131:Hard leather body:False
+1132:DNE
+1133:Studded body:False
+1134:DNE
+1135:Green dhide body:False
+1136:DNE
+1137:Iron helm:False
+1138:DNE
+1139:Bronze helm:False
+1140:DNE
+1141:Steel helm:False
+1142:DNE
+1143:Mithril helm:False
+1144:DNE
+1145:Adamant helm:False
+1146:DNE
+1147:Rune helm:False
+1148:DNE
+1149:Dragon helm:True
+1150:DNE
+1151:Black helm:False
+1152:DNE
+1153:Iron full helm:False
+1154:DNE
+1155:Bronze full helm:False
+1156:DNE
+1157:Steel full helm:False
+1158:DNE
+1159:Mithril full helm:False
+1160:DNE
+1161:Adamant full helm:False
+1162:DNE
+1163:Rune full helm:False
+1164:DNE
+1165:Black full helm:False
+1166:DNE
+1167:Leather cowl:False
+1168:DNE
+1169:Coif:False
+1170:DNE
+1171:Wooden shield:False
+1172:DNE
+1173:Bronze sq shield:False
+1174:DNE
+1175:Iron sq shield:False
+1176:DNE
+1177:Steel sq shield:False
+1178:DNE
+1179:Black sq shield:False
+1180:DNE
+1181:Mithril sq shield:False
+1182:DNE
+1183:Adamant sq shield:False
+1184:DNE
+1185:Rune sq shield:False
+1186:DNE
+1187:Dragon sq shield:True
+1188:DNE
+1189:Bronze kiteshield:False
+1190:DNE
+1191:Iron kiteshield:False
+1192:DNE
+1193:Steel kiteshield:False
+1194:DNE
+1195:Black kiteshield:False
+1196:DNE
+1197:Mithril kiteshield:False
+1198:DNE
+1199:Adamant kiteshield:False
+1200:DNE
+1201:Rune kiteshield:False
+1202:DNE
+1203:Iron dagger:False
+1204:DNE
+1205:Bronze dagger:False
+1206:DNE
+1207:Steel dagger:False
+1208:DNE
+1209:Mithril dagger:False
+1210:DNE
+1211:Adamant dagger:False
+1212:DNE
+1213:Rune dagger:False
+1214:DNE
+1215:Dragon dagger:True
+1216:DNE
+1217:Black dagger:False
+1218:DNE
+1219:DNE
+1220:DNE
+1221:DNE
+1222:DNE
+1223:DNE
+1224:DNE
+1225:DNE
+1226:DNE
+1227:DNE
+1228:DNE
+1229:DNE
+1230:DNE
+1231:DNE
+1232:DNE
