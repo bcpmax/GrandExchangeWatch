@@ -6,7 +6,7 @@ import time
 import thread
 BASE = "http://services.runescape.com/"
 opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'GenExcPriceUpdater /1.0 klokeman3@gmail.com')]
+opener.addheaders = [('User-agent', 'GenExcPriceUpdater /1.0')]
 
 def formatRequest(itemID):
     req = "m=itemdb_rs/api/catalogue/detail.json?item={}".format(itemID)
